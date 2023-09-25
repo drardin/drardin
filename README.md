@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drardin
 - 👀 I’m interested in programming and software development
-- 🌱 I’m currently learning the basics of HTML, CSS and JS
+- 🌱 I’m currently learning Bash and PowerShell scripting
 
 <!---
 drardin/drardin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
